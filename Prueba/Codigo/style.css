@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+.body1{
+    background-color: #1e1d2b;
+}
+.navbar1{
+    background-color: #1e1d2b !important;
+    font-family: 'Poppins', sans-serif; 
+}
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show > .nav-link{
+    color: aliceblue !important;
+    display: flex;
+    justify-content: center;
+
+}
+.navbar-brand{
+    color: #ff702a !important;
+    font-size: 1.5rem !important;
+}
+.box-0{
+    display: flex;
+    justify-content:center;
+    padding: 80px;
+}
+.p1{
+    color: aliceblue;
+}
+.Titulo{
+    color: #ff702a !important;
+    font-size: 80px;
+
+}
+.btn-danger{
+    background-color: #ff702a !important;
+    border: none;
+
+}
+.box-1{
+    display: flex;
+    padding-left: 500px;
+}
+.img-home{
+    display: flex;
+    width: 380px;
+    height: 350px;
+}
+.about{
+    color: #ff702a;
+}
+.text2{
+    color: aliceblue;
+    font-size: 40px;
+}
+.food{
+    display: flex;
+    justify-content: center;
+    color: #ff702a;
+}
+.text3{
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+}
+.card-complete{
+    background-color: blanchedalmond;
+}
+.card-title{
+    display: flex;
+    justify-content: center;
+}
+.card-text{
+    display: flex;
+    justify-content: center;
+}
+.card-price{
+    display: flex;
+    justify-content: center;
+    color: #ff702a;
+}
+.container-4{
+    padding: 100px;
+}
+.card-title1{
+    display: flex;
+    justify-content: center;
+    color: #ff702a;
+    font-size: 25px;
+}
+.card-text1{
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+}
+.container-5{
+    background-color: blanchedalmond;
+    padding: 50px;
+}
+.title4{
+    display: flex;
+    justify-content: center;
+    padding: 80px;
+
+}
